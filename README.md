@@ -12,7 +12,7 @@ This is a program that monitors the video signal from a camera and is able to de
 ## Pre-requesites
 Requires Python 3.0 to be installed in the system.
 
-## Screenshots
+## Sample Output
 ![Sample Output](sample_output.gif)
 
 ## Technologies
